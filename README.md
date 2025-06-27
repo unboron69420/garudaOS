@@ -1,2 +1,2 @@
-# garudaOS
+# garuda
 
